@@ -2,13 +2,25 @@
 
 using namespace std;
 
+/*
+
+	if(condition){
+
+		//statement
+
+	}else if(condition){
+
+		// statement
+
+	}else{
+
+		// statement
+
+	}
+
+*/
 int main() {
-	ios_base :: sync_with_stdio(false);
-	cin.tie(NULL); cout.tie(NULL);
-#ifndef ONLINE_JUDGE
-	freopen("C:/Users/Dolby/Study/C++/input.txt", "r", stdin);
-	freopen("C:/Users/Dolby/Study/C++/output.txt", "w", stdout);
-#endif
+
 	int a, b;
 	cin >> a >> b;
 
